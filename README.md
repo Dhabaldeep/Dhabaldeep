@@ -6,7 +6,7 @@
 <h3 align="center">I'm a Web Developer 💻,Photographer📸, and Designer🎨!</h3> 
 
 🤝**Connect with me:**
-![icons8-linkedin-48](https://user-images.githubusercontent.com/103854417/178112738-6bdad01b-a37d-417d-b282-73e7d266837f.png)(https://www.linkedin.com/in/deep-dhabal-a239b8212/)]
+<a href="https://www.linkedin.com/in/deep-dhabal-a239b8212/">https://user-images.githubusercontent.com/103854417/178112738-6bdad01b-a37d-417d-b282-73e7d266837f.png</a>
 ## Appendix
 
  🔭 I’m currently working on Nothing <br />
