@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **deepdhabal2001@gmail.com**
 
-- 📄 Know about my experiences [https://deepdhabal.wixsite.com/deepdhabal](https://deepdhabal.wixsite.com/deepdhabal)
+- 📄 Know about my experiences [**deepdhabal.wixsite.com/deepdhabal**](https://deepdhabal.wixsite.com/deepdhabal)
 
 - ⚡ Fun fact **Think it yourself**
 
