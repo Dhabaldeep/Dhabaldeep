@@ -1,7 +1,7 @@
-<p align="center">
+<!--<p align="center">
 
 <img width="2520" height="250" src="https://user-images.githubusercontent.com/103854417/178110816-20b6d602-e8fb-4fbd-a69d-796b4a919d57.png" alt="my banner">
-</p>
+</p> -->
 <h4 align="center">Hi 👋, I'm Deep Dhabal</h4>
 <h3 align="center">I'm a Web Developer 💻,Photographer📸, and Designer🎨!</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
