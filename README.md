@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/deep_dhabal" target="blank"><img src="https://img.shields.io/twitter/follow/deep_dhabal?logo=twitter&style=for-the-badge" alt="deep_dhabal" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
+<!-- - 🔭 I’m currently working on **Nothing** -->
 
 - 🌱 I’m currently learning **Frameworks,C,C++,Java,PHP**
 
